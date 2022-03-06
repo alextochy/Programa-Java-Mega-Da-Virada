@@ -1,4 +1,4 @@
-# **Programa Java Mega Da Virada**
+# Programa Java Mega Da Virada
 
 Um programa feito em Java que gera 6 números aleatórios para jogar na *Mega da Virada*
 
